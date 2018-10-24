@@ -4,7 +4,7 @@ It has my Git Commands which we use
 Git Commands
 ============
 
-_A list of my commonly used Git commands_
+_A list of my Git commands_
 
 --
 
