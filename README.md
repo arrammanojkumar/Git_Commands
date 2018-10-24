@@ -13,7 +13,8 @@ _A list of my commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
-| `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
+| `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository Over SSH |
+| `git clone https://username@host/repository_Path` | Create a local copy of a remote repository Over HTTP |
 
 ### Basic Snapshotting
 
