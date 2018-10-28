@@ -71,4 +71,4 @@ Add unnecessary files to .gitignore file not to get tracked by git
 ### Error Message and resolutions
 While pulling from remote if you see any error messages like below.
 
-`fatal: refusing to merge unrelated histories` then add `--allow-unrelated-histories` [ref link](https://github.com/git/git/blob/master/Documentation/RelNotes/2.9.0.txt#L58-L68)
+`fatal: refusing to merge unrelated histories` then add `--allow-unrelated-histories` [ref](https://github.com/git/git/blob/master/Documentation/RelNotes/2.9.0.txt#L58-L68)
