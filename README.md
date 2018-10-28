@@ -65,3 +65,7 @@ _A list of my Git commands_
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
+
+
+### .gitignore
+Add unnecessary files to .gitignore file not to get tracked by git
