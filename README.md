@@ -6,8 +6,6 @@ Git Commands
 
 _A list of my Git commands_
 
---
-
 ### Getting & Creating Projects
 
 | Command | Description |
