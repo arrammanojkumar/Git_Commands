@@ -24,6 +24,7 @@ _A list of my Git commands_
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
 | `git reset [file-name]` | Undo git add before commit with |
+| `git push -f origin [Commit-ID]:[branch-name]` | revert to previous commit in remote |
 
 ### Branching & Merging
 
